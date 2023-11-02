@@ -1,0 +1,11 @@
+C:\Users\rafae\source\repos\monthCalendarKontrola\monthCalendarKontrola\bin\Debug\monthCalendarKontrola.exe.config
+C:\Users\rafae\source\repos\monthCalendarKontrola\monthCalendarKontrola\bin\Debug\monthCalendarKontrola.exe
+C:\Users\rafae\source\repos\monthCalendarKontrola\monthCalendarKontrola\bin\Debug\monthCalendarKontrola.pdb
+C:\Users\rafae\source\repos\monthCalendarKontrola\monthCalendarKontrola\obj\Debug\monthCalendarKontrola.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\monthCalendarKontrola\monthCalendarKontrola\obj\Debug\monthCalendarKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\source\repos\monthCalendarKontrola\monthCalendarKontrola\obj\Debug\monthCalendarKontrola.Form1.resources
+C:\Users\rafae\source\repos\monthCalendarKontrola\monthCalendarKontrola\obj\Debug\monthCalendarKontrola.Properties.Resources.resources
+C:\Users\rafae\source\repos\monthCalendarKontrola\monthCalendarKontrola\obj\Debug\monthCalendarKontrola.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\monthCalendarKontrola\monthCalendarKontrola\obj\Debug\monthCalendarKontrola.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\monthCalendarKontrola\monthCalendarKontrola\obj\Debug\monthCalendarKontrola.exe
+C:\Users\rafae\source\repos\monthCalendarKontrola\monthCalendarKontrola\obj\Debug\monthCalendarKontrola.pdb
